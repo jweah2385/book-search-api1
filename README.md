@@ -29,7 +29,9 @@ This project is licensed under the MIT License.
 
 ## Preview
 
-This is what the user will see when they first see the page![This is a image preview of the applicaiton](/search-book/book-search-engine/client/public/Screenshot%202023-11-16%20at%209.54.02%20PM.png)
+This is what the user will see when they first see the page!
+<img width="1033" alt="Screenshot 2023-11-16 at 9 54 02 PM" src="https://github.com/jweah2385/book-search-api1/assets/134350647/07e6c33c-6f1c-4008-8d9b-a0d1cbb49584">
+
 
 
 ## Technologies Used
