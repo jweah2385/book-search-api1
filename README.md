@@ -42,7 +42,7 @@ This is what the user will see when they first see the page!
 
 ## Deployment
 
-https://jweah2385.github.io/schedule-calender2/
+https://book-search-api2-f92e504c17b9.herokuapp.com/
 
 ## Contact
 
